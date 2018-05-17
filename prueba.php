@@ -6,4 +6,4 @@
 	 * Time: 4:02 PM
 	 */
 
-	echo 'prueba';
+	echo 'prueba ';
