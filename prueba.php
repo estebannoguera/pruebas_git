@@ -7,3 +7,5 @@
 	 */
 
 	echo 'prueba ';
+
+	echo ' salida';
