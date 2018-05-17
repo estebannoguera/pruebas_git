@@ -7,3 +7,4 @@
 	 */
 
 	echo 'prueba';
+	echo 'Nueva prueba';
